@@ -12,6 +12,7 @@
 
 通过安装一些软件、插件来提高系统级别的软件体验。排名不分先后。
 
-- [Alfred](https://www.alfredapp.com/) ⭐️⭐️⭐️⭐️⭐️ - 一个可替代 Spotlight 的强大效率工具，比如网页搜索、历史剪贴板、自定义 Workflows 等。唯一缺点是部分高级功能需付费升级 [Powerpck](https://www.alfredapp.com/powerpack/)。
-- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) ⭐️⭐️⭐️⭐️⭐️ - 可自行调节触控板、鼠标方向的开源软件，如果还是习惯 Windows 下的鼠标逻辑，但又同时喜欢 macOS 触控板的自然方向，那么它可以帮助到你。
-- [Itsycal for Mac](https://www.mowglii.com/itsycal/) - 一个小巧、高颜值、功能强大的菜单栏日历工具。查看近期日程等，在菜单栏就能完成，无需再打开系统日历 📅 了。
+- [Alfred](https://www.alfredapp.com/) - 一个可替代 Spotlight 的强大效率工具，比如网页搜索、历史剪贴板、自定义 Workflows 等。唯一缺点是部分高级功能需付费升级 [Powerpck](https://www.alfredapp.com/powerpack/)。⭐️⭐️⭐️⭐️⭐️
+- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - 可自行调节触控板、鼠标方向的开源软件，如果还是习惯 Windows 下的鼠标逻辑，但又同时喜欢 macOS 触控板的自然方向，那么它可以帮助到你。⭐️⭐️⭐️⭐️⭐️
+- [Itsycal for Mac](https://www.mowglii.com/itsycal/) - 一个小巧、高颜值、功能强大的菜单栏日历工具。查看近期日程等，在菜单栏就能完成，无需再打开系统日历 📅 了。⭐️⭐️⭐️⭐️⭐️
+- ...
