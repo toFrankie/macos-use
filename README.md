@@ -18,3 +18,14 @@
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Finder 增强插件，提供了显示隐藏文件、路径拷贝、从这里启动、新建文件等便捷功能，可惜颜值没跟上 Finder。而且有一年多未更新了，目前不能很好地兼容 macOS Ventura。⭐️⭐️⭐️⭐️⭐️
 - [TotalFinder](https://totalfinder.binaryage.com/) - Fiander 增强插件，特色是彩色标签、Chrome-Style Tab。可兼容 macOS Ventura。⭐️⭐️⭐️⭐️⭐️
 - ...
+
+## 浏览器篇
+
+千万别再下什么 360、QQ 浏览器，「能用」的就只有这几个。
+
+- [Chrome 浏览器](https://www.google.cn/chrome/) - 颜值高，功能强大无需多言，最新 Web 标准支持最快，而且是前端开发必备。缺点是数据同步需要科学上网。
+- [Edge 浏览器](https://www.microsoft.com/zh-cn/edge/download) - 基于 Chromium 后实力大增，加入了一些微软特色功能，比如 PDF 支持等，主要是国内数据同步没有任何障碍。还有将会集成 New Bing？
+- [FireFox 浏览器](http://www.firefox.com.cn/) - 因安全性高、无捆绑 Google 服务等特性仍然吸引着一众老粉。
+- [Safari](https://www.apple.com.cn/safari/) - 颜值虽好，但它就是新时代的 IE 浏览器，一堆兼容性问题，而且跟进 Web 标准的积极性不高，问题修复慢。
+
+> 个人从事 Web 前端开发，第一选择是 Chrome 浏览器，而 Edge 的颜值打不过它，所以几乎不用。Firefox Development Edition 我会用来调试 CSS 和 DOM 事件，这两点要比 Chrome DevTools 好。而 Safari 的话是用来测试兼容性的。
