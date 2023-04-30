@@ -10,7 +10,7 @@
 
 ## 系统篇
 
-通过安装一些软件、插件来提高系统级别的软件体验。排名不分先后。
+通过安装一些软件、插件来提高系统级别的软件体验。
 
 - [Alfred](https://www.alfredapp.com/) - 一个可替代 Spotlight 的强大效率工具，比如网页搜索、历史剪贴板、自定义 Workflows 等。⭐️⭐️⭐️⭐️⭐️
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - 可自行调节触控板、鼠标方向的开源软件，如果还是习惯 Windows 下的鼠标逻辑，但又同时喜欢 macOS 触控板的自然方向，那么它可以帮助到你。⭐️⭐️⭐️⭐️⭐️
@@ -21,11 +21,9 @@
 
 ## 浏览器篇
 
-千万别再下什么 360、QQ 浏览器，「能用」的就只有这几个。
+别再用什么 360、QQ 浏览器了。
 
-- [Chrome 浏览器](https://www.google.cn/chrome/) - 颜值高，功能强大无需多言，最新 Web 标准支持最快，而且是前端开发必备。缺点是数据同步需要科学上网。
-- [Edge 浏览器](https://www.microsoft.com/zh-cn/edge/download) - 基于 Chromium 后实力大增，加入了一些微软特色功能，比如 PDF 支持等，主要是国内数据同步没有任何障碍。还有将会集成 New Bing？
-- [FireFox 浏览器](http://www.firefox.com.cn/) - 因安全性高、无捆绑 Google 服务等特性仍然吸引着一众老粉。
-- [Safari](https://www.apple.com.cn/safari/) - 颜值虽好，但它就是新时代的 IE 浏览器，一堆兼容性问题，而且跟进 Web 标准的积极性不高，问题修复慢。
-
-> 个人从事 Web 前端开发，第一选择是 Chrome 浏览器，而 Edge 的颜值打不过它，所以几乎不用。Firefox Development Edition 我会用来调试 CSS 和 DOM 事件，这两点要比 Chrome DevTools 好。而 Safari 的话是用来测试兼容性的。
+- [Chrome 浏览器](https://www.google.cn/chrome/) - 颜值高，功能强大无需多言，最新 Web 标准支持最快，而且是前端开发必备。缺点是数据同步需要科学上网。⭐️⭐️⭐️⭐️⭐️
+- [Edge 浏览器](https://www.microsoft.com/zh-cn/edge/download) - 基于 Chromium 后实力大增，加入了一些微软特色功能，比如 PDF 支持等，主要是国内数据同步没有任何障碍。还有将会集成 New Bing？⭐️⭐️⭐️⭐️
+- [FireFox 浏览器](http://www.firefox.com.cn/) - 因安全性高、不像 Chrome 那样捆绑 Google 服务等特性仍然吸引着一众老粉。⭐️⭐️⭐️
+- [Safari 浏览器](https://www.apple.com.cn/safari/) - 颜值虽好，但它就是新时代的 IE 浏览器，一堆兼容性问题，而且跟进 Web 标准的积极性不高，问题修复慢。⭐️⭐️
