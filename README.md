@@ -21,9 +21,20 @@
 
 ## 浏览器篇
 
-别再用什么 360、QQ 浏览器了。
+别再下什么 360、QQ 浏览器了，「能用」的就这几个：
 
 - [Chrome 浏览器](https://www.google.cn/chrome/) - 颜值高，功能强大无需多言，最新 Web 标准支持最快，而且是前端开发必备。缺点是数据同步需要科学上网。⭐️⭐️⭐️⭐️⭐️
 - [Edge 浏览器](https://www.microsoft.com/zh-cn/edge/download) - 基于 Chromium 后实力大增，加入了一些微软特色功能，比如 PDF 支持等，主要是国内数据同步没有任何障碍。还有将会集成 New Bing？⭐️⭐️⭐️⭐️
 - [FireFox 浏览器](http://www.firefox.com.cn/) - 因安全性高、不像 Chrome 那样捆绑 Google 服务等特性仍然吸引着一众老粉。⭐️⭐️⭐️
 - [Safari 浏览器](https://www.apple.com.cn/safari/) - 颜值虽好，但它就是新时代的 IE 浏览器，一堆兼容性问题，而且跟进 Web 标准的积极性不高，问题修复慢。⭐️⭐️
+
+## 开发篇
+
+会倾向 Web 前端开发。
+
+- [Xcode Command Lines Tool](https://developer.apple.com/download/all/?q=command%20line%20tools) - Xcode 是 Apple 为开发者提供的完整开发环境，但由于 Xcode 体积巨大，对于非 iOS 开发者来说，安装该命令行工具足矣 `xcode-select –install`。相关文章：⭐️⭐️⭐️⭐️⭐️
+  - [Install Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html)
+  - [List of Xcode Command Line Tools](https://mac.install.guide/commandlinetools/8.html)
+- [Homebrew](https://brew.sh/) - 不多说，使用 macOS 开发的同学必备。绝大多数开发工具都可以通过 Homebrew 进行安装/更新/卸载，包括像 Chrome 等 GUI 应用。⭐️⭐️⭐️⭐️⭐️
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/) - 如果使用 zsh 作为默认 Shell，那么 omz 能极大地减轻配置的复杂性，兼容 bash 的同时，Tab 补全更强大，以及有着丰富的主题和插件。此前在这篇[文章](https://github.com/toFrankie/blog/issues/28)介绍过。⭐️⭐️⭐️⭐️⭐️
+- ...
