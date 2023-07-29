@@ -1,8 +1,4 @@
-<style>
-  .markdown-body {
-    font-size: 14px;
-  }
-</style>
+<div style="font-size: 14px">
 
 ![](./images/cover.png)
 
@@ -44,3 +40,6 @@
 - [Homebrew](https://brew.sh/)：不多说，使用 macOS 开发的同学必备。绝大多数开发工具都可以通过 Homebrew 进行安装/更新/卸载，包括像 Chrome 等 GUI 应用。⭐️⭐️⭐️⭐️⭐️
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)：如果使用 zsh 作为默认 Shell，那么 omz 能极大地减轻配置的复杂性，兼容 bash 的同时，Tab 补全更强大，以及有着丰富的主题和插件。此前在这篇[文章](https://github.com/toFrankie/blog/issues/28)介绍过。⭐️⭐️⭐️⭐️⭐️
 - ...
+
+<!-- 内容请在此处前面插入 -->
+</div>
