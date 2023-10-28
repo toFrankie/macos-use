@@ -41,5 +41,11 @@
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)：如果使用 zsh 作为默认 Shell，那么 omz 能极大地减轻配置的复杂性，兼容 bash 的同时，Tab 补全更强大，以及有着丰富的主题和插件。此前在这篇[文章](https://github.com/toFrankie/blog/issues/28)介绍过。⭐️⭐️⭐️⭐️⭐️
 - ...
 
+## 下载篇
+
+- [AppStorrent](https://appstorrent.ru/)：Games and Programs for macOS。
+- [Chrome Downloads](https://www.chromedownloads.net/chrome64osx/)：提供了各操作系统、各历史版本的 Chrome 安装包。
+- [Microsoft Software Download](https://microsoft.com/en-us/software-download/)：可下载 Windows 各版本的系统镜像包。
+
 <!-- 内容请在此处前面插入 -->
 </div>
