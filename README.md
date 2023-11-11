@@ -36,8 +36,8 @@
 会倾向 Web 前端开发。
 
 - [Xcode Command Lines Tool](https://developer.apple.com/download/all/?q=command%20line%20tools)：Xcode 是 Apple 为开发者提供的完整开发环境，但由于 Xcode 体积巨大，对于非 iOS 开发者来说，安装该命令行工具足矣 `xcode-select –install`。相关文章：⭐️⭐️⭐️⭐️⭐️
-  ：[Install Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html)
-  ：[List of Xcode Command Line Tools](https://mac.install.guide/commandlinetools/8.html)
+  - [Install Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html)
+  - [List of Xcode Command Line Tools](https://mac.install.guide/commandlinetools/8.html)
 - [Homebrew](https://brew.sh/)：不多说，使用 macOS 开发的同学必备。绝大多数开发工具都可以通过 Homebrew 进行安装/更新/卸载，包括像 Chrome 等 GUI 应用。⭐️⭐️⭐️⭐️⭐️
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)：如果使用 zsh 作为默认 Shell，那么 omz 能极大地减轻配置的复杂性，兼容 bash 的同时，Tab 补全更强大，以及有着丰富的主题和插件。此前在这篇[文章](https://github.com/toFrankie/blog/issues/28)介绍过。⭐️⭐️⭐️⭐️⭐️
 - ...
