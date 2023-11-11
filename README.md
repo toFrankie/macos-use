@@ -19,7 +19,7 @@
 - [Itsycal for Mac](https://www.mowglii.com/itsycal/)：一个小巧、高颜值、功能强大的菜单栏日历工具。查看近期日程等，在菜单栏就能完成，无需再打开系统日历 📅 了。⭐️⭐️⭐️⭐️⭐️
 - [XtraFinder](https://www.trankynam.com/xtrafinder/)：Finder 增强插件，提供了显示隐藏文件、路径拷贝、从这里启动、新建文件等便捷功能，可惜颜值没跟上 Finder。⭐️⭐️⭐️⭐️⭐️
 - [TotalFinder](https://totalfinder.binaryage.com/)：Fiander 增强插件，特色是彩色标签、Chrome-Style Tab。⭐️⭐️⭐️⭐️⭐️
-- [The Unarchiver]()：完全免费无广告，主流格式都支持，比内置的「归档实用工具」好使。
+- [The Unarchiver](https://apps.apple.com/cn/app/the-unarchiver/id425424353?mt=12)：一款免费无广告的解压缩工具，比内置的「归档实用工具」支持更多主流格式。
 - ...
 
 ## 浏览器篇
