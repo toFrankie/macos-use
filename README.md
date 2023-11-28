@@ -40,6 +40,7 @@
   - [List of Xcode Command Line Tools](https://mac.install.guide/commandlinetools/8.html)
 - [Homebrew](https://brew.sh/)：不多说，使用 macOS 开发的同学必备。绝大多数开发工具都可以通过 Homebrew 进行安装/更新/卸载，包括像 Chrome 等 GUI 应用。⭐️⭐️⭐️⭐️⭐️
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)：如果使用 zsh 作为默认 Shell，那么 omz 能极大地减轻配置的复杂性，兼容 bash 的同时，Tab 补全更强大，以及有着丰富的主题和插件。此前在这篇[文章](https://github.com/toFrankie/blog/issues/28)介绍过。⭐️⭐️⭐️⭐️⭐️
+- [draw.io](https://www.drawio.com/): 一个免费的作图软件，支持时序图、UML 等各种图，可在线或离线保存。⭐️⭐️⭐️⭐️⭐️
 - ...
 
 ## 下载篇
