@@ -49,5 +49,10 @@
 - [Chrome Downloads](https://www.chromedownloads.net/chrome64osx/)：提供了各操作系统、各历史版本的 Chrome 安装包。
 - [Microsoft Software Download](https://microsoft.com/en-us/software-download/)：可下载 Windows 各版本的系统镜像包。
 
+## 浏览器扩展篇
+
+- [沉浸式翻译](https://immersivetranslate.com/)：非常好用的翻译插件。
+- [草料二维码](https://chromewebstore.google.com/detail/%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81-%E5%BF%AB%E9%80%9F%E7%94%9F%E7%A0%81%E5%92%8C%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7/moombeodfomdpjnpocobemoiaemednkg)：可将地址栏 URL 快速生成二维码
+
 <!-- 内容请在此处前面插入 -->
 </div>
