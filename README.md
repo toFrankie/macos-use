@@ -52,7 +52,8 @@
 ## 浏览器扩展篇
 
 - [沉浸式翻译](https://immersivetranslate.com/)：非常好用的翻译插件。
-- [草料二维码](https://chromewebstore.google.com/detail/%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81-%E5%BF%AB%E9%80%9F%E7%94%9F%E7%A0%81%E5%92%8C%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7/moombeodfomdpjnpocobemoiaemednkg)：可将地址栏 URL 快速生成二维码
+- [草料二维码](https://chromewebstore.google.com/detail/%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81-%E5%BF%AB%E9%80%9F%E7%94%9F%E7%A0%81%E5%92%8C%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7/moombeodfomdpjnpocobemoiaemednkg)：可将地址栏 URL 快速生成二维码。
+- [JSON Formatter](https://chromewebstore.google.com/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)：自动格式化 JSON（对于大数字显示可能会不准确，[详见](https://github.com/callumlocke/json-formatter#why-are-large-numbers-not-displayed-accurately)）。
 
 <!-- 内容请在此处前面插入 -->
 </div>
