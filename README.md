@@ -32,7 +32,7 @@
 - [Microsoft Edge](https://www.microsoft.com/zh-cn/edge/download)：基于 Chromium 后实力大增，加入了一些微软特色功能，比如 PDF 支持等，主要是国内数据同步没有任何障碍。还有将会集成 New Bing？⭐️⭐️⭐️⭐️
 - [Mozilla FireFox](http://www.firefox.com.cn/)：因安全性高、不像 Chrome 那样捆绑 Google 服务等特性仍然吸引着一众老粉。⭐️⭐️⭐️
 - [Apple Safari](https://www.apple.com.cn/safari/)：颜值虽好，但它就是新时代的 IE 浏览器，一堆兼容性问题，而且跟进 Web 标准的积极性不高，问题修复慢。⭐️⭐️
-- [Arc](https://arc.net/)：最近很火的一个浏览器，由于我未深入使用，便不予评价了。
+- ~~[Arc](https://arc.net/)：最近很火的一个浏览器，由于我未深入使用，便不予评价了。~~（[进入维护状态？](https://www.youtube.com/watch?v=E9yZ0JusME4)）
 
 ## 开发篇
 
