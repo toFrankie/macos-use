@@ -49,7 +49,7 @@
 ## 下载篇
 
 - [AppStorrent](https://appstorrent.ru/)：Games and Programs for macOS。
-- [Chrome Downloads](https://www.chromedownloads.net/chrome64osx/)：提供了各操作系统、各历史版本的 Chrome 安装包。
+- ~~[Chrome Downloads](https://www.chromedownloads.net/chrome64osx/)：提供了各操作系统、各历史版本的 Chrome 安装包。~~（很久没更新了）
 - [Microsoft Software Download](https://microsoft.com/en-us/software-download/)：可下载 Windows 各版本的系统镜像包。
 
 ## 浏览器扩展篇
