@@ -75,9 +75,8 @@
 
 Alfred 不思进取，有点想入坑 Raycast。
 
-Raycast 快捷键「⌘ + Space」
-
-Alfred 快捷键「⌥ + Space」，主要使用历史剪贴板功能
+- Alfred：⌥ + Space，使用其历史剪贴板功能。
+- Raycast：⌘ + Space，替换 Alfred 的主要工作。👉 [How to replace Spotlight with Raycast](https://manual.raycast.com/hotkey)
 
 ### Raycast Extensions
 
