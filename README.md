@@ -15,6 +15,7 @@
 通过安装一些软件、插件来提高系统级别的软件体验。
 
 - [Alfred](https://www.alfredapp.com/)：一个可替代 Spotlight 的强大效率工具，比如网页搜索、历史剪贴板、自定义 Workflows 等。⭐️⭐️⭐️⭐️⭐️
+- [Raycast](https://www.raycast.com/)：尝试替换 Alfred 的工作。
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)：可自行调节触控板、鼠标方向的开源软件，如果还是习惯 Windows 下的鼠标逻辑，但又同时喜欢 macOS 触控板的自然方向，那么它可以帮助到你。⭐️⭐️⭐️⭐️⭐️
 - [Itsycal for Mac](https://www.mowglii.com/itsycal/)：一个小巧、高颜值、功能强大的菜单栏日历工具。查看近期日程等，在菜单栏就能完成，无需再打开系统日历 📅 了。⭐️⭐️⭐️⭐️⭐️
 - [XtraFinder](https://www.trankynam.com/xtrafinder/)：Finder 增强插件，提供了显示隐藏文件、路径拷贝、从这里启动、新建文件等便捷功能，可惜颜值没跟上 Finder。⭐️⭐️⭐️⭐️⭐️
@@ -75,6 +76,7 @@
 Alfred 不思进取，有点想入坑 Raycast。
 
 Raycast 快捷键「⌘ + Space」
+
 Alfred 快捷键「⌥ + Space」，主要使用历史剪贴板功能
 
 ### Raycast Extensions
