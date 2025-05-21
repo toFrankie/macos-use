@@ -70,5 +70,16 @@
 - [GitHub Workflow for Alfred](https://github.com/gharlan/alfred-github-workflow)
 - [alfred-open-with-vscode](https://github.com/toFrankie/alfred-open-with-vscode)
 
+## Raycast
+
+Alfred 不思进取，有点想入坑 Raycast。
+
+Raycast 快捷键「⌘ + Space」
+Alfred 快捷键「⌥ + Space」，主要使用历史剪贴板功能
+
+### Raycast Extensions
+
+- [Cursor](https://www.raycast.com/degouville/cursor-recent-projects) 快速打开最近项目
+
 <!-- 内容请在此处前面插入 -->
 </div>
