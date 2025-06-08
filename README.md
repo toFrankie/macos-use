@@ -2,20 +2,18 @@
 
 ![](./images/cover.png)
 
-# macos-use
+我们知道，Apple 的硬件虽然不一定是行业顶尖，但凭借出色的软硬件结合，往往能带来优秀的用户体验。不过，由于用户群体和应用场景的多样性，人们对“好产品”的定义也各不相同，macOS 自然也不例外。
 
-我们知道 Apple 很多产品其硬件水平可能不是行业最顶级的，但胜在其软硬件结合的能力，提供很棒的用户体验。但由于用户群体、应用场景各不相同，人们对一款产品好与坏的定义自然不同，macOS 也如此。
+有人称赞 Mac 触控板丝滑顺手，也有人吐槽鼠标滚动方向“反人类”；有人喜欢它的颜值，有人嫌它打不了游戏；有人觉得生产力拉满，也有人抱怨 Office 兼容性差、缺乏工业级专业软件……褒贬不一，都是对 macOS 的真实反馈。
 
-有人感叹 Mac 电脑触控板丝滑，有人吐槽 macOS 的鼠标滚动方向反人类，有人喜欢 macOS 的颜值，有人嫌弃 macOS 打不了游戏，有人说 macOS 生产力拉满，有人说 Office 兼容性差、专业性工业软件没几个，诸如此类。不可否认，这些都是客观存在的事实，自然对 macOS 褒贬不一。
-
-如果恰好你也喜欢用 macOS，不妨继续往下看。
+如果你也刚好喜欢 macOS，不妨继续读下去。
 
 ## 系统篇
 
 通过安装一些软件、插件来提高系统级别的软件体验。
 
-- [Alfred](https://www.alfredapp.com/)：一个可替代 Spotlight 的强大效率工具，比如网页搜索、历史剪贴板、自定义 Workflows 等。⭐️⭐️⭐️⭐️⭐️
-- [Raycast](https://www.raycast.com/)：尝试替换 Alfred 的工作。
+- [Raycast](https://www.raycast.com/)：替换 Alfred 的工作。缺点要钱，但免费功能已经足够好用，使用一段时间后基本可以替代 Alfred 了。数据同步需开通 Pro，免费用户可以将配置导出 iCloud Drive 来达到类似同步的效果。⭐️⭐️⭐️⭐️⭐️
+- ~~[Alfred](https://www.alfredapp.com/)：一个可替代 Spotlight 的强大效率工具，比如网页搜索、历史剪贴板、自定义 Workflows 等。⭐️⭐️⭐️⭐️⭐️~~（已入坑 Raycast，目前基本是只用它的历史剪贴板功能）
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)：可自行调节触控板、鼠标方向的开源软件，如果还是习惯 Windows 下的鼠标逻辑，但又同时喜欢 macOS 触控板的自然方向，那么它可以帮助到你。⭐️⭐️⭐️⭐️⭐️
 - [Itsycal for Mac](https://www.mowglii.com/itsycal/)：一个小巧、高颜值、功能强大的菜单栏日历工具。查看近期日程等，在菜单栏就能完成，无需再打开系统日历 📅 了。⭐️⭐️⭐️⭐️⭐️
 - [XtraFinder](https://www.trankynam.com/xtrafinder/)：Finder 增强插件，提供了显示隐藏文件、路径拷贝、从这里启动、新建文件等便捷功能，可惜颜值没跟上 Finder。⭐️⭐️⭐️⭐️⭐️
@@ -65,22 +63,22 @@
 - [用好 VS Code 快捷键](https://github.com/toFrankie/blog/issues/317)
 - [使用 VS Code + Github 搭建个人博客](https://github.com/toFrankie/blog/issues/327)
 
+## Raycast
+
+Alfred 不思进取，成功入坑 Raycast。
+
+- Raycast：⌘ + Space，替换 Alfred 的主要工作。👉 [How to replace Spotlight with Raycast](https://manual.raycast.com/hotkey)
+- Alfred：⌥ + Space，使用其历史剪贴板功能。
+
+### Raycast Extensions
+
+- [Cursor](https://www.raycast.com/degouville/cursor-recent-projects) 快速打开最近项目
+
 ## Alfred Workflows
 
 - [有道翻译](https://github.com/wensonsmith/YoudaoTranslator)
 - [GitHub Workflow for Alfred](https://github.com/gharlan/alfred-github-workflow)
 - [alfred-open-with-vscode](https://github.com/toFrankie/alfred-open-with-vscode)
-
-## Raycast
-
-Alfred 不思进取，有点想入坑 Raycast。
-
-- Alfred：⌥ + Space，使用其历史剪贴板功能。
-- Raycast：⌘ + Space，替换 Alfred 的主要工作。👉 [How to replace Spotlight with Raycast](https://manual.raycast.com/hotkey)
-
-### Raycast Extensions
-
-- [Cursor](https://www.raycast.com/degouville/cursor-recent-projects) 快速打开最近项目
 
 <!-- 内容请在此处前面插入 -->
 </div>
