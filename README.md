@@ -21,7 +21,7 @@
 - [The Unarchiver](https://apps.apple.com/cn/app/the-unarchiver/id425424353?mt=12)：一款免费无广告的解压缩工具，比内置的「归档实用工具」支持更多主流格式。
 - ...
 
-> 目前最新版的 XtraFinder v1.8 在 macOS Sonoma 上不太兼容。
+> 目前最新版的 XtraFinder v1.9 在 macOS Sequoia 上有点问题，直接点击 Finder 图标无法打开，需要右键新建窗口。
 
 ## 浏览器篇
 
@@ -73,6 +73,9 @@ Alfred 不思进取，成功入坑 Raycast。
 ### Raycast Extensions
 
 - [Cursor](https://www.raycast.com/degouville/cursor-recent-projects) 快速打开最近项目
+- [DeepWiki](https://www.raycast.com/vivek/deepwiki) 搜索 DeepWiki 索引过的仓库
+- [WeChat DevTool](https://www.raycast.com/tofrankie/wechat-devtool) 用于快速打开小程序项目
+- [Sourcetree](https://www.raycast.com/i906/sourcetree) 用于打开指定 Sourcetree 指定仓库。
 
 ## Alfred Workflows
 
